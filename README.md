@@ -14,4 +14,4 @@ Hi there 👋
 
 ## Other
 
-♟️ A lógica do jogo não exigiu nenhum framework específico e incluiu apenas conceitos de níveis básico ao intermediário da linguagem.
+♟️ A lógica do jogo não exigiu framework específico e usou apenas conceitos de níveis básico ao intermediário do Java.
